@@ -1,0 +1,1256 @@
+<PubHist<[1]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:56 23 pm')>
+>
+<[2]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:56 35 pm')>
+>
+<[3]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:56 43 pm')>
+>
+<[4]<type="css">
+<name="ios">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 64 pm')>
+>
+<[5]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 78 pm')>
+>
+<[6]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\barrick_logo.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 81 pm')>
+>
+<[7]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c1.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 81 pm')>
+>
+<[8]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c10.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 81 pm')>
+>
+<[9]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c11.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 82 pm')>
+>
+<[10]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c12.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 82 pm')>
+>
+<[11]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c13.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 82 pm')>
+>
+<[12]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c14.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 82 pm')>
+>
+<[13]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c15.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 83 pm')>
+>
+<[14]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c2.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 83 pm')>
+>
+<[15]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c3.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 83 pm')>
+>
+<[16]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c4.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 83 pm')>
+>
+<[17]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c5.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 83 pm')>
+>
+<[18]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c6.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 84 pm')>
+>
+<[19]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c7.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 84 pm')>
+>
+<[20]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c8.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 84 pm')>
+>
+<[21]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c9.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 84 pm')>
+>
+<[22]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\logo_controlesquesalvanvidas.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 85 pm')>
+>
+<[23]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 85 pm')>
+>
+<[24]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_expired.dbf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 85 pm')>
+>
+<[25]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_expired.dbp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 85 pm')>
+>
+<[26]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_expired.ddd}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 85 pm')>
+>
+<[27]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_expired.ddm}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 86 pm')>
+>
+<[28]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_expired.ddx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 86 pm')>
+>
+<[29]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.cdx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 86 pm')>
+>
+<[30]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.dbf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 86 pm')>
+>
+<[31]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.dbp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 87 pm')>
+>
+<[32]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.ddd}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 87 pm')>
+>
+<[33]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.ddm}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 87 pm')>
+>
+<[34]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.ddx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 87 pm')>
+>
+<[35]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_members.dbf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 87 pm')>
+>
+<[36]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_members.dbp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 88 pm')>
+>
+<[37]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_members.ddd}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 88 pm')>
+>
+<[38]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_members.ddm}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 88 pm')>
+>
+<[39]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_members.ddx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 88 pm')>
+>
+<[40]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_users.dbf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 89 pm')>
+>
+<[41]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_users.dbp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 89 pm')>
+>
+<[42]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_users.ddd}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 89 pm')>
+>
+<[43]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_users.ddm}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 89 pm')>
+>
+<[44]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_users.ddx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('13/11/2017 02:16:57 89 pm')>
+>
+<[45]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:32:29 21 pm')>
+>
+<[46]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:47 73 pm')>
+>
+<[47]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:47 87 pm')>
+>
+<[48]<type="css">
+<name="ios">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 45 pm')>
+>
+<[49]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 61 pm')>
+>
+<[50]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\barrick_logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 61 pm')>
+>
+<[51]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 61 pm')>
+>
+<[52]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c10.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 62 pm')>
+>
+<[53]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c11.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 62 pm')>
+>
+<[54]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c12.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 62 pm')>
+>
+<[55]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c13.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 62 pm')>
+>
+<[56]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c14.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 63 pm')>
+>
+<[57]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c15.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 63 pm')>
+>
+<[58]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 63 pm')>
+>
+<[59]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 63 pm')>
+>
+<[60]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 64 pm')>
+>
+<[61]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c5.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 64 pm')>
+>
+<[62]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c6.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 64 pm')>
+>
+<[63]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c7.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 64 pm')>
+>
+<[64]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c8.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 65 pm')>
+>
+<[65]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c9.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 65 pm')>
+>
+<[66]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\logo_controlesquesalvanvidas.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 65 pm')>
+>
+<[67]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 60 pm')>
+>
+<[68]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_expired.dbf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 05 pm')>
+>
+<[69]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_expired.dbp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 05 pm')>
+>
+<[70]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_expired.ddd}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 05 pm')>
+>
+<[71]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_expired.ddm}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 06 pm')>
+>
+<[72]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_expired.ddx}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 06 pm')>
+>
+<[73]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.cdx}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 06 pm')>
+>
+<[74]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.dbf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 06 pm')>
+>
+<[75]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.dbp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 07 pm')>
+>
+<[76]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.ddd}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 07 pm')>
+>
+<[77]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.ddm}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 07 pm')>
+>
+<[78]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_groups.ddx}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 07 pm')>
+>
+<[79]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_members.dbf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 08 pm')>
+>
+<[80]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_members.dbp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 08 pm')>
+>
+<[81]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_members.ddd}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 08 pm')>
+>
+<[82]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_members.ddm}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 08 pm')>
+>
+<[83]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_members.ddx}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 09 pm')>
+>
+<[84]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_users.dbf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 09 pm')>
+>
+<[85]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_users.dbp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 09 pm')>
+>
+<[86]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_users.ddd}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 09 pm')>
+>
+<[87]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_users.ddm}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 10 pm')>
+>
+<[88]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\websecurity_users.ddx}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 10 pm')>
+>
+<[89]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:47 73 pm')>
+>
+<[90]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 02:48:59 44 pm')>
+>
+<[91]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\component.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 03:33:32 33 pm')>
+>
+<[92]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:35:48 58 pm')>
+>
+<[93]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:37 20 pm')>
+>
+<[94]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:37 21 pm')>
+>
+<[95]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:37 99 pm')>
+>
+<[96]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:37 99 pm')>
+>
+<[97]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:37 99 pm')>
+>
+<[98]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:37 99 pm')>
+>
+<[99]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 00 pm')>
+>
+<[100]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8148\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('13/11/2017 04:29:38 00 pm')>
+>
+<[101]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:04:24 10 am')>
+>
+<[102]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:12 79 am')>
+>
+<[103]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:12 79 am')>
+>
+<[104]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:12 92 am')>
+>
+<[105]<type="css">
+<name="ios">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 40 am')>
+>
+<[106]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 53 am')>
+>
+<[107]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 54 am')>
+>
+<[108]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 55 am')>
+>
+<[109]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\barrick_logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 56 am')>
+>
+<[110]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 56 am')>
+>
+<[111]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c10.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 56 am')>
+>
+<[112]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c11.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 57 am')>
+>
+<[113]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c12.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 57 am')>
+>
+<[114]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c13.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 57 am')>
+>
+<[115]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c14.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 57 am')>
+>
+<[116]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c15.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 57 am')>
+>
+<[117]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 58 am')>
+>
+<[118]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 58 am')>
+>
+<[119]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 58 am')>
+>
+<[120]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c5.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 58 am')>
+>
+<[121]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c6.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 58 am')>
+>
+<[122]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c7.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 59 am')>
+>
+<[123]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c8.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 59 am')>
+>
+<[124]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c9.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 59 am')>
+>
+<[125]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\logo_controlesquesalvanvidas.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 59 am')>
+>
+<[126]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\s3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_1772\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 09:49:13 60 am')>
+>
+<[127]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 03:37:53 01 pm')>
+>
+<[128]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:23 79 pm')>
+>
+<[129]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:23 80 pm')>
+>
+<[130]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:23 93 pm')>
+>
+<[131]<type="css">
+<name="ios">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 39 pm')>
+>
+<[132]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 50 pm')>
+>
+<[133]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 52 pm')>
+>
+<[134]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 53 pm')>
+>
+<[135]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\barrick_logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 53 pm')>
+>
+<[136]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 54 pm')>
+>
+<[137]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c10.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 54 pm')>
+>
+<[138]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c11.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 54 pm')>
+>
+<[139]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c12.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 54 pm')>
+>
+<[140]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c13.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 54 pm')>
+>
+<[141]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c14.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 55 pm')>
+>
+<[142]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c15.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 55 pm')>
+>
+<[143]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 55 pm')>
+>
+<[144]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 55 pm')>
+>
+<[145]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 56 pm')>
+>
+<[146]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c5.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 56 pm')>
+>
+<[147]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c6.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 56 pm')>
+>
+<[148]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c7.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 56 pm')>
+>
+<[149]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c8.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 56 pm')>
+>
+<[150]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c9.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 57 pm')>
+>
+<[151]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\logo_controlesquesalvanvidas.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_576\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:14:24 57 pm')>
+>
+<[152]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:20:09 22 pm')>
+>
+<[153]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:28 57 pm')>
+>
+<[154]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:28 58 pm')>
+>
+<[155]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:28 71 pm')>
+>
+<[156]<type="css">
+<name="ios">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 16 pm')>
+>
+<[157]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 27 pm')>
+>
+<[158]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 29 pm')>
+>
+<[159]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 30 pm')>
+>
+<[160]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\barrick_logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 30 pm')>
+>
+<[161]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 30 pm')>
+>
+<[162]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c10.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 31 pm')>
+>
+<[163]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c11.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 31 pm')>
+>
+<[164]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c12.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 32 pm')>
+>
+<[165]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c13.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 32 pm')>
+>
+<[166]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c14.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 32 pm')>
+>
+<[167]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c15.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 32 pm')>
+>
+<[168]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 33 pm')>
+>
+<[169]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 33 pm')>
+>
+<[170]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 33 pm')>
+>
+<[171]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c5.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 33 pm')>
+>
+<[172]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c6.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 34 pm')>
+>
+<[173]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c7.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 34 pm')>
+>
+<[174]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c8.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 34 pm')>
+>
+<[175]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c9.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 34 pm')>
+>
+<[176]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\logo_controlesquesalvanvidas.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 35 pm')>
+>
+<[177]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:54:40 44 pm')>
+>
+<[178]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:54:40 65 pm')>
+>
+<[179]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:54:40 66 pm')>
+>
+<[180]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:54:42 37 pm')>
+>
+<[181]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:54:42 40 pm')>
+>
+<[182]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:54:42 42 pm')>
+>
+<[183]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:54:42 43 pm')>
+>
+<[184]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:54:42 46 pm')>
+>
+<[185]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:54:42 47 pm')>
+>
+<[186]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\espaciosconfinados.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 06:26:29 35 pm')>
+>
+<[187]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\s3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8496\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('14/11/2017 04:54:42 52 pm')>
+>
+<[188]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 08:55:34 73 am')>
+>
+<[189]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:40 78 pm')>
+>
+<[190]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:40 80 pm')>
+>
+<[191]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:40 93 pm')>
+>
+<[192]<type="css">
+<name="ios">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 38 pm')>
+>
+<[193]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 49 pm')>
+>
+<[194]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 51 pm')>
+>
+<[195]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 52 pm')>
+>
+<[196]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\barrick_logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 52 pm')>
+>
+<[197]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 53 pm')>
+>
+<[198]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c10.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 53 pm')>
+>
+<[199]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c11.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 53 pm')>
+>
+<[200]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c12.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 53 pm')>
+>
+<[201]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c13.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 53 pm')>
+>
+<[202]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c14.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 54 pm')>
+>
+<[203]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c15.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 54 pm')>
+>
+<[204]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 54 pm')>
+>
+<[205]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 54 pm')>
+>
+<[206]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 54 pm')>
+>
+<[207]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c5.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 55 pm')>
+>
+<[208]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c6.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 55 pm')>
+>
+<[209]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c7.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 55 pm')>
+>
+<[210]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c8.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 55 pm')>
+>
+<[211]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c9.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 56 pm')>
+>
+<[212]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\espaciosconfinados.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 56 pm')>
+>
+<[213]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\logo_controlesquesalvanvidas.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 56 pm')>
+>
+<[214]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\logo barrick pascua lama.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 05:04:41 56 pm')>
+>
+<[215]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 12:20:08 79 pm')>
+>
+<[216]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 12:20:09 06 pm')>
+>
+<[217]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 12:20:09 06 pm')>
+>
+<[218]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 12:20:09 80 pm')>
+>
+<[219]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 12:20:09 82 pm')>
+>
+<[220]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 12:20:09 82 pm')>
+>
+<[221]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 12:20:09 83 pm')>
+>
+<[222]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 12:20:09 84 pm')>
+>
+<[223]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 12:20:09 85 pm')>
+>
+<[224]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\s3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2660\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('15/11/2017 12:20:09 91 pm')>
+>
+<[225]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 09:04:28 60 am')>
+>
+<[226]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 06 pm')>
+>
+<[227]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 07 pm')>
+>
+<[228]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 21 pm')>
+>
+<[229]<type="css">
+<name="ios">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 80 pm')>
+>
+<[230]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 93 pm')>
+>
+<[231]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 94 pm')>
+>
+<[232]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 96 pm')>
+>
+<[233]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\barrick_logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 96 pm')>
+>
+<[234]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 96 pm')>
+>
+<[235]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c10.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 97 pm')>
+>
+<[236]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c11.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 97 pm')>
+>
+<[237]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c12.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 97 pm')>
+>
+<[238]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c13.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 97 pm')>
+>
+<[239]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c14.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 97 pm')>
+>
+<[240]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c15.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 98 pm')>
+>
+<[241]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 98 pm')>
+>
+<[242]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 98 pm')>
+>
+<[243]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 98 pm')>
+>
+<[244]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c5.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 99 pm')>
+>
+<[245]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c6.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 99 pm')>
+>
+<[246]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c7.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 99 pm')>
+>
+<[247]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c8.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:53 99 pm')>
+>
+<[248]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\c9.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:54 00 pm')>
+>
+<[249]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\espaciosconfinados.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:54 00 pm')>
+>
+<[250]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\logo barrick pascua lama.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:54 00 pm')>
+>
+<[251]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo barrick\barrick.webprojects\default.webproject\img\logo_controlesquesalvanvidas.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9420\temphttp___nubisonlab_cl___1580\prototipobarrick">
+<timestamp=CTODT('16/11/2017 05:33:54 00 pm')>
+>
+>
